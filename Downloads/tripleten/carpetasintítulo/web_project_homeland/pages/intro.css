@@ -1,0 +1,42 @@
+.intro{
+
+
+ margin-bottom: 130px;
+ font-family: 'inter';
+ gap: 15px;
+ margin: 0 auto;
+}
+.intro__title {
+text-align: left;
+font-family: 'Inter';
+font-size: 54px;
+color: #FFFFFF;
+margin: 0 auto;
+}
+.intro__text {
+width: 732px;
+height: 33.91px;
+right: 400px;
+top: 1628.56px;
+font-family: 'Inter';
+color: #FFFFFF;
+font-style: normal;
+text-align: left;
+}
+.intro__text1{
+    text-align: left;
+width: 732px;
+height: 33.91px;
+right: 400px;
+top: 1628.56px;
+font-family: 'Inter';
+color: #FFFFFF;
+font-style: normal;
+}
+
+.intro__name{
+    text-align: end;
+    color: #FFFFFF;
+    margin-right: 320px;
+    line-height: 5px;
+}
