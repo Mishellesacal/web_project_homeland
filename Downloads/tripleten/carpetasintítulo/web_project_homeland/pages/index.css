@@ -1,16 +1,24 @@
-@import url("normalize.css");
-@import url("fonts.css");
+@import url("../vendor/normalize.css");
+@import url("../vendor/font.css");
 
-body {
-    background-color: #2A2C2F;
-    text-align: center;
-}
-.logo{
+
+.header__logo{
 margin:0 auto;
-
-
+display: block;
 
 }
+.page{
+    background-color: #2A2C2F;
+  color: #fff;
+  font-weight: 400;
+  margin: 0 auto;
+}
+@media screen and (max-width:320px){
+    .logo{
+        width: 50%;
+    }
+}
+
 
 
 
